@@ -1,3 +1,9 @@
+# meni solution
+* Took me half an hour and a forced restart to install c++ tools from visual studio to make sqlite install with node... maybe add that to the excerise setup
+* because of lack of time, did not break to files, write bl/dal, extract duplication, handle edge cases, wrote tests, logging, input validation etc...
+* all APIs checked with postman on my machine
+* my usual stack is nestjs, mongo, typescript etc.. so using express and sequelize was new to me
+
 # DEEL BACKEND TASK
 
   

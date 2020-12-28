@@ -13,6 +13,9 @@
     "seed": "node ./scripts/seedDb.js"
   },
   "devDependencies": {
+    "@types/express": "4.17.9",
+    "@types/node": "14.14.16",
+    "@types/sequelize": "4.28.9",
     "concurrently": "4.1.0",
     "nodemon": "1.19.1"
   },

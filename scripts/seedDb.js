@@ -39,7 +39,7 @@ async function seed() {
       firstName: 'Ash',
       lastName: 'Kethcum',
       profession: 'Pokemon master',
-      balance: 1.3,
+      balance: 3000, //Meni Change for testing
       type:'client'
     }),
     Profile.create({
@@ -165,7 +165,7 @@ async function seed() {
     Job.create({
       description: 'work',
       price: 2020,
-      paid:true,
+      paid:false,  //Meni Change for testing
       paymentDate:'2020-08-15T19:11:26.737Z',
       ContractId: 7,
     }),
